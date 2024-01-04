@@ -1,0 +1,9 @@
+globals.c:20:9:isButtonClear	8	static
+globals.c:25:9:isDirectionInput	8	static
+globals.c:44:9:restartGame	8	static
+globals.c:49:6:generateFruit	16	static
+globals.c:59:6:touchProcess	24	static
+globals.c:85:6:drawGameBoard	24	static
+globals.c:92:6:drawControlPad	40	static
+globals.c:113:6:printGameOver	40	static
+globals.c:125:6:snake_movement	24	static
